@@ -2,8 +2,5 @@
   "name": "@todone/web",
   "version": "0.0.1",
   "author": "Ravern Koh",
-  "license": "MIT",
-  "devDependencies": {
-    "parcel": "^1.9.7"
-  }
+  "license": "MIT"
 }
