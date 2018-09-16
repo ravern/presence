@@ -1,3 +1,3 @@
-# Todone
+# Presence
 
-🗒 Just another todo app.
+Dead simple attendance tracker.
