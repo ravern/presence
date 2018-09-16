@@ -4,8 +4,7 @@ export default class extends Component {
   public render() {
     return (
       <Fragment>
-        <h1>Presence</h1>
-        <h3>Dead simple attendance tracker</h3>
+        <h1>Overflow</h1>
       </Fragment>
     );
   }
