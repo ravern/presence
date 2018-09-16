@@ -85,3 +85,5 @@ typings/
 .firebase/
 firebase-debug.log
 dist/
+
+environment.json
