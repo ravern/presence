@@ -1,6 +1,6 @@
 import { Component, Fragment } from "react";
 
-import firebase from "../../firebase";
+import { firebase } from "../../firebase";
 
 interface IState {
   form: {
